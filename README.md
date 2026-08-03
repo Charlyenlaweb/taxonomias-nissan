@@ -90,3 +90,5 @@ Para que la herramienta online lea los datos nuevos, hay que subir la actualizac
    ```
 
 ¡Listo! La URL cruda de GitHub se actualizará automáticamente y la herramienta online ya tendrá la información más reciente.
+
+Prueba de configuración de Git desde la nueva computadora.
